@@ -1,0 +1,9 @@
+{
+	"name": "devarundatafactory",
+	"location": "southcentralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8e115d6a-88ab-4cbe-8ba4-86f320440977",
+		"tenantId": "3cb9c573-460f-4704-a83c-4e44520e5d79"
+	}
+}
